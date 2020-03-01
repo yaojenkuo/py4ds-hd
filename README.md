@@ -1,8 +1,6 @@
 # Python 程式設計資料科學應用 | 和鼎
 
-## sli.do: H429
-
-https://www.sli.do/ H429
+<https://www.sli.do/>: H429
 
 ## 上課共筆
 
