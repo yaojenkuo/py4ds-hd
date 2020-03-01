@@ -24,3 +24,8 @@
     - [NumPy 101](https://yaojenkuo.io/python_4_ds/04-numpy-101.slides.html)
     - [Pandas 101](https://yaojenkuo.io/python_4_ds/05-pandas-101.slides.html)
     - [專題]()
+
+## 參考書籍
+
+- [Python 旋風之旅](https://jakevdp.github.io/WhirlwindTourOfPython/)
+- [精通 Python](https://www.books.com.tw/products/0010690075)
