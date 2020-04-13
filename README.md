@@ -23,7 +23,7 @@
     - [網頁資料擷取](https://yaojenkuo.io/python_4_ds/03-web-scraping-101.slides.html)
     - [NumPy 101](https://yaojenkuo.io/python_4_ds/04-numpy-101.slides.html)
     - [Pandas 101](https://yaojenkuo.io/python_4_ds/05-pandas-101.slides.html)
-    - [專題]()
+    - [後續專題應用](hd-projects.slides.html)
 
 ## 參考書籍
 
